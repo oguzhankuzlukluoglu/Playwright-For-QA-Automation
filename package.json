@@ -1,0 +1,22 @@
+{
+  "name": "playwright-for-qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzhankuzlukluoglu/Playwright-For-QA-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguzhankuzlukluoglu/Playwright-For-QA-Automation/issues"
+  },
+  "homepage": "https://github.com/oguzhankuzlukluoglu/Playwright-For-QA-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
